@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IITiP.iml" filepath="$PROJECT_DIR$/.idea/IITiP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_4/Lab_4.iml" filepath="$PROJECT_DIR$/Lab_4/Lab_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2-6/Task2-6.iml" filepath="$PROJECT_DIR$/Task2-6/Task2-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks1/Tasks1.iml" filepath="$PROJECT_DIR$/Tasks1/Tasks1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+    </modules>
+  </component>
+</project>
